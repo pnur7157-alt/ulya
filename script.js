@@ -28,7 +28,7 @@ const products = [
         id: 4,
         name: "Hijab Sholat Instan",
         price: 95000,
-        image: "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400",
+        image: "https://unsplash.com/id/ilustrasi/xQxNYraWq4w",
         category: "Hijab Sholat",
         rating: 4.7
     },
